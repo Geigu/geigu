@@ -1,3 +1,3 @@
-Checkout https://geigi.net/ :)
+https://geigi.net/ :)
 
 
